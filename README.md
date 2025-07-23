@@ -17,6 +17,6 @@ This project predicts employee salaries based on features like years of experien
 - Jupyter Notebook 📒
 
 ## 🚀 How to Run
-1. Clone the repository:
+ Clone the repository:
    bash
    git clone https://github.com/bhoomika-N-R/employee-salary-prediction.git
